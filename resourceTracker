@@ -1,0 +1,12 @@
+Print the buckets
+2024-12-01 07:26:50 meghhhana
+Print the instance id
+"i-0c0f3ce4c80bb114b"
+Print the lambdas
+{
+    "Functions": []
+}
+Print the IAM users
+{
+    "Users": []
+}
